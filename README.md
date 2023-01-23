@@ -34,7 +34,7 @@
     My name is Maxim, and I'm Junior Python Developer. 
     I'm working with tools:
   </p>
-      <li>
+  <div>
       <ul>Python3</ul>
       <ul>Selenium</ul>
       <ul>Jenkins</ul>
@@ -43,7 +43,7 @@
       <ul>VirtualBox</ul>
       <ul>Linux</ul>
       <ul>Shell</ul>
-    </li> 
+ </div>
 </div>
 
 
