@@ -30,6 +30,17 @@
   <p>
       About me
   </p>
+  <p>
+    My name is Maxim, and I'm Junior Python Developer. 
+    I'm working with tools:
+    Python3
+    Postman
+    Jenkins
+    VirtualBox
+    Linux
+    Shell
+    Docker 
+  </p>
 </div>
 
 
