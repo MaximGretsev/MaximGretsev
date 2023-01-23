@@ -33,13 +33,16 @@
   <p>
     My name is Maxim, and I'm Junior Python Developer. 
     I'm working with tools:
-    Python3
-    Postman
-    Jenkins
-    VirtualBox
-    Linux
-    Shell
-    Docker 
+    <li>
+      <ul>Python3</ul>
+      <ul>Selenium</ul>
+      <ul>Jenkins</ul>
+      <ul>Postman</ul>
+      <ul>Docker</ul>
+      <ul>VirtualBox</ul>
+      <ul>Linux</ul>
+      <ul>Shell</ul>
+    </li> 
   </p>
 </div>
 
