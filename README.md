@@ -33,7 +33,8 @@
   <p>
     My name is Maxim, and I'm Junior Python Developer. 
     I'm working with tools:
-    <li>
+  </p>
+      <li>
       <ul>Python3</ul>
       <ul>Selenium</ul>
       <ul>Jenkins</ul>
@@ -43,7 +44,6 @@
       <ul>Linux</ul>
       <ul>Shell</ul>
     </li> 
-  </p>
 </div>
 
 
