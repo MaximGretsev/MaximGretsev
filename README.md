@@ -26,7 +26,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
   <p>
       About me
   </p>
